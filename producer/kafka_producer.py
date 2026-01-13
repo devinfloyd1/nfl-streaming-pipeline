@@ -244,7 +244,7 @@ def main():
     parser.add_argument(
         '--game-file',
         type=str,
-        default='data/game_super_bowl_57.csv',
+        default='data/nfl_plays_2023.csv',
         help='Path to game CSV file'
     )
     parser.add_argument(

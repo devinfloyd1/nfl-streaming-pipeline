@@ -284,8 +284,9 @@ class NFLSparkConsumer:
         # Define prediction UDF
         # This function will be applied to each row in the stream
         def make_prediction_udf(play_data_row):
-            """Convert Spark Row to dict and make prediction."""
-            play_data = play_data_row.asDict()
+            """Convert pandas Series to dict and make prediction."""
+            # pandas Series uses .to_dict(), not .asDict() (which is for PySpark Row)
+            play_data = play_data_row.to_dict()
 
             # Make predictions
             predictions = self.predictor.predict(play_data)
