@@ -472,27 +472,10 @@ MIT License - See LICENSE file for details
 
 ## Author
 
-Built by [Your Name] as a portfolio project demonstrating:
+Built by Devi Floyd + Copilot + Claude as a pipeline code/documentation project:
 - Streaming data pipelines (Kafka)
 - Real-time ML inference
 - PySpark structured streaming
 - Sports analytics
 - Production-quality code
 
-**Portfolio:** [your-portfolio.com]
-**LinkedIn:** [linkedin.com/in/yourname]
-**GitHub:** [github.com/yourusername]
-
----
-
-## Why This Project Stands Out
-
-✅ **Real data** - Not synthetic, uses actual NFL games
-✅ **Production patterns** - Kafka + Spark is industry standard
-✅ **ML inference** - Shows how to serve models in real-time
-✅ **End-to-end** - Complete pipeline from data fetch to predictions
-✅ **Well-documented** - Explains concepts, not just code
-✅ **Runnable** - Actually works on local machine
-✅ **Scalable** - Same code runs on laptop or cloud cluster
-
-Perfect for interviews at: DraftKings, FanDuel, ESPN, sports betting companies, data infrastructure teams.
