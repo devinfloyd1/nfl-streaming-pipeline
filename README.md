@@ -472,7 +472,7 @@ MIT License - See LICENSE file for details
 
 ## Author
 
-Built by Devi Floyd + Copilot + Claude as a pipeline code/documentation project:
+Built by Devin Floyd + Copilot + Claude as a pipeline code/documentation project:
 - Streaming data pipelines (Kafka)
 - Real-time ML inference
 - PySpark structured streaming
