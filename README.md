@@ -1,9 +1,6 @@
 # NFL Real-Time Streaming Data Pipeline with ML Predictions
 
 A production-quality streaming data pipeline that replays historical NFL play-by-play data through Apache Kafka and makes real-time machine learning predictions as if games are happening live.
-
-**Perfect for:** Data Engineer / ML Engineer portfolio showcasing streaming pipelines, real-time ML inference, and sports analytics.
-
 ## Architecture
 
 ```
